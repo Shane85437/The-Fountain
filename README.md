@@ -4,10 +4,10 @@ This repository contains the code, data, and documentation for the "Relativity o
 
 ## Overview
 
-- **Purpose**: Develop and validate a novel grand unified theory linking black hole entropy, cosmic acceleration, and quantum decoherence.
+- **Purpose**: Develop and validate a grand unified theory of quantum gravity linking black hole entropy and cosmic acceleration, unifying quantum mechanics and general relativity.
 - **Key Components**: 
   - MCMC implementations (Bilby, emcee, Cobaya) for parameter constraints (\(\chi\), \(\ell\)).
   - Theoretical tests (solar system, fifth force, neutrinos, LSS, Sgr A* IMBH prediction).
   - LaTeX draft of the paper and supporting figures.
 - **Status**: Pre-publication; work in progress with ongoing refinement
-- 
+
