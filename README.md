@@ -15,5 +15,5 @@ This repository contains the code, data, and documentation for the "Relativity o
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/shane85437/the-fountain.git
+   git clone https://github.com/Shane85437/The-Fountain.git
    cd relativity-of-precausality
