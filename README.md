@@ -9,12 +9,26 @@ Develop and validate a **grand unified theory of quantum gravity** linking **bla
 unifying **quantum mechanics** and **general relativity** under a single causal operator framework.
 
 ### 🧩 Key Components
-📄 Main Paper: “The Relativity of Precausality”
-    📓 Notebook 1: Core Framework Validation
-    📓 Notebook 2: Extended Physical Consistency
-    📓 Notebook 3: Galactic Rotation Dynamics (MCMC)
-    📓 Notebook 4: Gravitational Waves (Bilby / PyCBC)
-    📓 Notebook 5: Cosmology (Cobaya Alternative)   
+📄 Main Paper: “The Relativity of Precausality"
+Progress: 95% Completion
+
+📓 Notebook 1: Core Framework Validation
+Progress: 100% Completion
+
+📓 Notebook 2: Extended Physical Consistency
+Progress:  100% Completion
+
+📓 Notebook 3: Fundamental Scale Bridging
+Progress:  10% Completion
+
+📓 Notebook 4: Galactic Rotation Dynamics (MCMC)
+Progress: 99% Completion
+
+📓 Notebook 5: Gravitational Waves (Bilby / PyCBC)
+Progress:  99% Completion
+
+📓 Notebook 6: Cosmology (Cobaya Alternative)
+Progress:  80% Completion
 
 ### 🧪 Status
 Pre-publication; active research in progress with ongoing refinement and validation.
